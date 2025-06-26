@@ -1,0 +1,8 @@
+yt-dlp
+openai-whisper
+torch
+fpdf
+requests
+python-dotenv
+transformers
+tqdm
